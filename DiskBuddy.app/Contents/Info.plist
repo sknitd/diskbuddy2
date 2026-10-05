@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleName</key><string>DiskBuddy</string>
+  <key>CFBundleDisplayName</key><string>DiskBuddy</string>
+  <key>CFBundleIdentifier</key><string>com.diskbuddy.recreation</string>
+  <key>CFBundleExecutable</key><string>DiskBuddy</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>LSMinimumSystemVersion</key><string>14.0</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>LSApplicationCategoryType</key><string>public.app-category.utilities</string>
+  <key>NSDesktopFolderUsageDescription</key><string>DiskBuddy looks at your Desktop to find large and duplicate files.</string>
+  <key>NSDocumentsFolderUsageDescription</key><string>DiskBuddy looks at your Documents to find large and duplicate files.</string>
+  <key>NSDownloadsFolderUsageDescription</key><string>DiskBuddy lists your Downloads so you can clear old installers.</string>
+  <key>NSRemovableVolumesUsageDescription</key><string>DiskBuddy measures disk space on external volumes.</string>
+</dict></plist>
